@@ -36,4 +36,4 @@ Feito para a atividade de AOC - ADS 60.
 
 Teste realizado com `n = 6`. O resultado esperado é `H = -15`.
 
-![Programa executado no PCSpim](./execucao_pcspim.png.png)
+![Programa executado no PCSpim](./execucao_pcspim.png)
